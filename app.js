@@ -7,9 +7,9 @@
 //     let regex = /[a-z0-9]/gi;
 //     let objCharCount = {}
 
-//   
+
 //     let strSplit = str.split("")
-//loop over each string
+// loop over each string
 //     for (const char of strSplit) {
 //         //if char is number/letter AND is not yet a key in obj - add to obj, add 1 to count
 //         if (char.match(regex) && !objCharCount.hasOwnProperty(char)) {
