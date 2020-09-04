@@ -16,4 +16,9 @@ function charCount(str) {
     let regex = /[a-z0-9]/gi;
     let objCharCount = {}
 
-  
+ # Task 2: Compare 2 arrays, return true if every value in array has it's corresponding squared value in array 2
+
+ Steps: 
+ 1. Edge case: empty arrays
+ 2. Use indexOf, to find array1[i] squared value in array2
+ 3. If found remove that element in array2 (splice)
