@@ -2,7 +2,7 @@
 
 I did an udemy course on JavaScript Algorithms and Data Structures. There were several practice tasks, which are included in this README file.
 
-# Task 1: Return the number of each character in a string found
+### Task 1: Return the number of each character in a string found
 
 Steps: 
 1. Make regex for charaters
@@ -16,7 +16,7 @@ function charCount(str) {
     let regex = /[a-z0-9]/gi;
     let objCharCount = {}
 
- # Task 2: Compare 2 arrays, return true if every value in array has it's corresponding squared value in array 2
+ ### Task 2: Compare 2 arrays, return true if every value in array has it's corresponding squared value in array 2
 
  Steps: 
  1. Edge case: empty arrays
