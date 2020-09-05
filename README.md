@@ -22,3 +22,5 @@ function charCount(str) {
  1. Edge case: empty arrays
  2. Use indexOf, to find array1[i] squared value in array2
  3. If found remove that element in array2 (splice)
+
+ ### Task 3: Given 2 strings, write a function which determinates whether the 2nd string is an anagram of the 1st one or not
