@@ -24,3 +24,10 @@ function charCount(str) {
  3. If found remove that element in array2 (splice)
 
  ### Task 3: Given 2 strings, write a function which determinates whether the 2nd string is an anagram of the 1st one or not
+
+ Steps:
+ 1. Check edge case, when there are no strings passed in
+ 2. Use Frequency Count Method. 
+ 3. Collect chars in 2 objects, then compare them.
+
+ ### Task 4: Count unique values - accepts a sorted array and counts the unique values in the array
